@@ -1,4 +1,4 @@
 <?php
-$food = ['orange', 'banana', 'apple', 'carrot'];
-sort($food);
-var_dump($food);
+$food = ['orange', 'banana', 'apple', 'carrot', 'apple', 'apple', 'orange'];
+$food1 = array_unique($food);
+var_dump($food1);
