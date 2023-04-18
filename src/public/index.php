@@ -1,3 +1,3 @@
 <?php
-$num = 3.5;
-echo floor($num);
+$num = 3.2;
+echo ceil($num);
