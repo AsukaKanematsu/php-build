@@ -1,3 +1,3 @@
 <?php
-$num = 3.2;
-echo ceil($num);
+$word = "Hello world!";
+var_dump(strrev($word));
