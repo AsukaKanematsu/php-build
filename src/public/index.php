@@ -1,3 +1,3 @@
 <?php
-$word = "orange";
-var_dump(strtoupper($word));
+$food = ['orange', 'banana', 'apple', 'carrot'];
+echo count($food);
