@@ -1,3 +1,3 @@
 <?php
-$word = "Hello world!";
-var_dump(strrev($word));
+$word = "orange";
+var_dump(strtoupper($word));
